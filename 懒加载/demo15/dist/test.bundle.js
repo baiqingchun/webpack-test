@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{5:function(n,o,t){"use strict";function s(){console.log("test")}t.r(o),t.d(o,"test",function(){return s}),console.log("按需加载，厉害了")}}]);
