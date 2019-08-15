@@ -9,7 +9,11 @@ npm run build
 
 发布
 注册npm账号
+
 修改package.json文件的入口，修改为："main": "./dist/library.js"
+
 运行npm adduser添加账户名称
+
 运行npm publish命令进行发布
+
 运行npm install xxx来进行安装
